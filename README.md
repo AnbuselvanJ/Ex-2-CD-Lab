@@ -33,5 +33,7 @@
 
 # INPUT
 # OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2026-08-08 162608" src="https://github.com/user-attachments/assets/6dd06e3b-9a50-480c-a70a-4212407f4269" />
+
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
